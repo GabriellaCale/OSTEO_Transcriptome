@@ -1,0 +1,36 @@
+
+```{r}
+
+# Downloading package needed for microarray analysis
+if (!requireNamespace("BiocManager"))
+    install.packages("BiocManager")
+BiocManager::install(c("limma", "edgeR", "Glimma", "org.Mm.eg.db", "gplots", "RColorBrewer", "NMF", "BiasedUrn"))
+
+# Load libraries needed for data analysis
+library(edgeR)
+library(limma)
+library(Glimma)
+library(org.Mm.eg.db)
+library(gplots)
+library(RColorBrewer)
+library(NMF)
+
+# Install package to allow for import of FASTA file type
+install.packages("seqinr")
+library(seqinr)
+
+# Create file path for desired data file 
+file.choose()
+
+# Import data file
+seqdata <- read.fasta(, stringAsFactors = False)
+
+# Preview data file 
+head(seqdata)
+dim(seqdata)
+
+# 
+
+
+
+```
