@@ -4,7 +4,7 @@ Project based in osteo-based cell type transcriptomes
 
 *Project Name:* Osteo Transcriptome Assessment
 
-* Version of R used:*
+*Version of R used:*
 ---
       platform       aarch64-apple-darwin20      
       arch           aarch64                     
