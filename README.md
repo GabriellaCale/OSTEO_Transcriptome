@@ -36,6 +36,7 @@ Pantherophis_guttatus_RUNx2: https://www.ncbi.nlm.nih.gov/nuccore/AB811941.1
 Crocodylus_siamensis_RUNx2:https://www.ncbi.nlm.nih.gov/nuccore/AB811936.1
 Pelodiscus_sinensis_RUNx2: https://www.ncbi.nlm.nih.gov/nuccore/AB811943.1
 ---
-                Package source:
+R Package Sources:
 
-                Main researchers: Gabriella Cale, 
+Research Contributors: Gabriella Cale
+
