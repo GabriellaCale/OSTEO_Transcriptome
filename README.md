@@ -28,12 +28,13 @@ cells from varying species and lineages.
 **Contributors:** Primary Data Source: Skeletal gene expression in the temporal region
 of the reptilian embryos: implications for the
 evolution of reptilian skull morphology doi:10.1186/2193-1801-2-336
+Data retrieved from NIH: AB811933:AB811944
 
 ---
-                                    Data recieved from NIH:
-                                    Pantherophis_guttatus_RUNx2: https://www.ncbi.nlm.nih.gov/nuccore/AB811941.1
-                                    Crocodylus_siamensis_RUNx2:https://www.ncbi.nlm.nih.gov/nuccore/AB811936.1
-                                    Pelodiscus_sinensis_RUNx2: https://www.ncbi.nlm.nih.gov/nuccore/AB811943.1
+RUNx2 transcription data:
+Pantherophis_guttatus_RUNx2: https://www.ncbi.nlm.nih.gov/nuccore/AB811941.1
+Crocodylus_siamensis_RUNx2:https://www.ncbi.nlm.nih.gov/nuccore/AB811936.1
+Pelodiscus_sinensis_RUNx2: https://www.ncbi.nlm.nih.gov/nuccore/AB811943.1
 ---
                 Package source:
 
