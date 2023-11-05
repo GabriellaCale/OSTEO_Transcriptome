@@ -5,7 +5,7 @@ Project based in osteo-based cell type transcriptomes
 **Project Name:** Osteo Transcriptome Assessment
 
 *Version of R used:*
---
+---
       platform       aarch64-apple-darwin20      
       arch           aarch64                     
       os             darwin20                    
@@ -29,7 +29,7 @@ cells from varying species and lineages.
 of the reptilian embryos: implications for the
 evolution of reptilian skull morphology doi:10.1186/2193-1801-2-336
 
---
+---
                                     Data recieved from NIH:
                                     Pantherophis_guttatus_RUNx2: https://www.ncbi.nlm.nih.gov/nuccore/AB811941.1
                                     Crocodylus_siamensis_RUNx2:https://www.ncbi.nlm.nih.gov/nuccore/AB811936.1
